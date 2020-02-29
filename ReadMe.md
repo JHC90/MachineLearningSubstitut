@@ -1,6 +1,23 @@
 # Read Me
 Dieses Repo ist die Ausarbeitung der Kompenstaionsartbeit von Jochen Hollich.
-Für die Abarbeitung der Aufgaben wurde grundlegend follgende Checklisten (Vorlage "Hands-On Machine Learning with Scikit-Learn & TensorFlow" ) verwendet. Die Checklisten sind unter folgendem Link einzusehen: [linkToChecklists](https://github.com/JHC90/Basic-DataScience-Skills/tree/master/checklists). 
-Dazu wurden Jupyter-Notebooks erstellt, welche sich der Filebezeichnung entlang der entsprechenden Checklist orientieren.
-Die tatsächliche Aufgabenstellung ist [hier](./docs/exercise.pdf) zu finden. Die Ausarbeitung der jeweiligen Aufgaben ist in Jupyter-Notebooks ausgeführt worden. Diese wurden in dem Folder "./notebooks" erstellt. Je aufgabe wurde ein Notebook mit der Bezeichnung "EX-X" erstellt, wobei "X" auf die jeweilige Nummer verweist. 
+es gibt folgende Notebooks.
+
+Zum Zeitpunkt der Abgabe ist die Ausarbeitung zwar abgabefähig, jedoch noch nicht gänzlich ausgereift. So würde im nächsten Schritt noch eine Dimensionsreduktion und eine bessere Ausarbeitung von Ex-3 // implementierung NN anstehen. Das werde ich grundsätzlich auch bis Mittwoch 04.03.2020 erledigen.
+
+@Michael
+ich möchte zumindest einmal etwas "intime" abgeben, daher stelle ich dir hiermit meine Ausarbeitungen bereit. Wie oben geschrieben werde ich jedoch selbst nochmals ein paar "Dinge" ändern, egal ob du das in die Bewertung mit einfließen lässt oder nicht. Ich wäre dir dankbar wenn du die Version von kommenden Mittwoch 04.03.2020 dir Klonst, und diese Version dann für mich evaluiert. Anders gefragt: bekomm ich noch etwas Zeit? Für den Fall, dass ich das nicht bekommen lilefer ich dir zumindest hier eine Abgabe
+
+
+1) [EDA](./notebooks/0_EDA.ipynb)
+hier wurde einen EDA auf den gegeben Datensatz durchgeführt
+2) [DataPreprocessingRegression](./notebooks/0_Preparation_Pipeline_Reg.ipynb)
+In diesem Notebook wurden mittels einer SKLearn-Pipeline die Vorverarebitungsschritte für die Regressionsaufgabenstellung durchgeführt
+3) [DataPreprocessingClassification](./notebooks/0_Preparation_Pipeline_Clf.ipynb)
+In diesem Notebook wurden mittels einer SKLearn-Pipeline die Vorverarebitungsschritte für die Klassifikationsaufgabenstellung durchgeführt
+4) [Ex1](./notebooks/Exercise_1.ipynb)
+Ausarbeitung Aufgabenstellung 1.
+5) [Ex2](./notebooks/Exercise_2.ipynb)
+Ausarbeitung Aufgabenstellung 2.
+6) [Ex3](./notebooks/Exercise_3.ipynb)
+Ausarbeitung Aufgabenstellung 3.
 
